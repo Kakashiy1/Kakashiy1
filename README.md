@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Kakashiy1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in hacking 🧧
+- 🌱 I’m currently learning ... hacking
+- 💞️ I’m looking to collaborate on ... xeon 
 - 📫 How to reach me ...
+- Instagram 
+- https://Instagram.com/kakashi_0.3
 
-<!---
-Kakashiy1/Kakashiy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
